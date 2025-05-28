@@ -3,23 +3,74 @@
 # Lab 0
 # Problem 1
 """
-1. first_name, is a valid name in python, because it is snake case, which is when we use '_' instead of spaces between words.
-2. 
-3.
-Your solution goes here
-
+first_name
+"""first _name is valid because, it starts with a lowercase and uses an underscore"""
+2nd_name
+"""2nd_name is invalid because, it starts with a number"""
+age
+"""age is valid because, it starts with a lowercase and it is letters only """
+total_amount
+"""total_amount is valid because, it starts with a lowercase and there is an underscore"""
+while
+"""while is valid because, it starts with a lowercase and uses letters only """
+Student
+"""Student is invalid because, it starts with a capital"""
+my-variable
+"""my-variable is invalid because, it uses a -"""
+for
+"""for is valid because, it starts with a lowercase and it uses letters only """
+_temp
+"""_temp is valid because, it starts with a underscore"""
+value#
+"""value# is invalid because, # are not allowed """
 
 """
 # Problem 2
 """
-Your solution goes here
-
+calculate_total
+"""calculate_total is valid because, starts with lowercase and also uses a underscore """
+3rd_function
+"""3rd_function is invalid because, it starts with a number"""
+print_values
+"""print_values is valid because, it starts with lowercase and also uses a underscore """
+find-item
+"""find-item is invalid because, it uses a -"""
+def
+"""def is valid because, it starts with a lowercase and also it is only letters"""
+updateProfile
+"""updateProfile is valid because. It starts with a lowercase and uses a capital to merge the two words instead of a space or -"""
+my_function
+"""my_function is valid because, it starts with a lowercase and also uses a underscore"""
+try
+"""try is valid because, it starts with a lowercase and also uses only letters"""
+init_data
+"""init_data is valid because, it starts with a lowercase and also uses a underscore"""
+value@function
+"""value@function  is invalid because, there is a @ in the function name """
 
 """
 # Problem 3
 """
-Your solution goes here
-
+True and False
+"""True and False is valid, because it is a boolean"""
+5 > 3 or "apple" < "banana"
+"""5 > 3 or "apple" < "banana" is valid because,5 is greater than 3 and apple comes before banana"""
+not 10 <= 20
+("""not 10 <= 20 is valid because, 20 is greater and more than equal to 10"""
+True or 5 = 4
+("""True or 5 = 4 is invalid because, 5 does not equal to 4"""
+"apple" != "orange" and 5
+(""" “apple” != “orange” and 5 ????"""
+3 < 5 not True
+("""3 < 5 not True is valid because, 3 is not greater than 5"""
+False == (3 > 4)
+("""False == (3 > 4) is valid because, 4 is greater than 3"""
+10 <= "10"
+("""10 <= “10” is invalid because of <=”10”? What does this even mean?"""
+True or not False
+("""True or not False is valid because, true is true. If something isn't false its true."""
+5 and or 4
+("""5 and or 4 is not valid because, what is being compared?"""
 
 """
 #-----------------------------------------------------------------------------
